@@ -1,0 +1,102 @@
+body{ background-color: black;
+
+}
+
+H1{ text-align: center; 
+    color: rgb(182, 205, 50); 
+}
+
+button{ margin-left: 39vh; 
+    border-radius: 20vh; 
+    color: yellow;
+    background-color: black;
+
+}
+
+.coiso{ display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    height: 30vh;
+    border-radius: 20vh; 
+} 
+.oi{ color: rgb(182, 205, 50); 
+    text-align: center; 
+}
+
+.alex{
+    background-color: rgb(59, 209, 14);
+    color: black;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+a{
+    color: black;
+}
+.adam{
+    display: flex;
+    align-items: center; 
+    gap: 20px;    
+}
+
+.et{
+    height: 30vh;
+    border-radius: 10vh;
+}
+
+main{
+    margin-bottom: 15vh;
+}
+
+
+
+H1{ text-align: center; 
+    color: rgb(182, 205, 50); 
+}
+
+button{ margin-left: 39vh; 
+    border-radius: 20vh; 
+    color: yellow;
+    background-color: black;
+
+}
+
+.coiso{ display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    height: 30vh;
+    border-radius: 20vh; 
+} 
+.oi{ color: rgb(182, 205, 50); 
+    text-align: center; 
+}
+
+.alex{
+    background-color: rgb(59, 209, 14);
+    color: black;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+a{
+    color: black;
+}
+.adam{
+    display: flex;
+    align-items: center; 
+    gap: 20px;    
+}
+
+.et{
+    height: 30vh;
+    border-radius: 10vh;
+}
+
+main{
+    margin-bottom: 15vh;
+}
+
+
